@@ -4,11 +4,48 @@ title: Assignments
 uid: 4a106e0d-95b3-340c-d5ee-6cfb9985e2ad
 ---
 
-| Problem Sets | Solutions |
-| --- | --- |
-| Problem Set 1 ([PDF]({{< baseurl >}}/resources/problem_set_1_d__bd_b2003_1_1)) | Solution 1 ([PDF]({{< baseurl >}}/resources/answerps1)) |
-| Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps24)) | &nbsp; |
-| Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset31)) | Solution 3 ([PDF]({{< baseurl >}}/resources/ps3sol)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Problem Sets
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/problem_set_1_d__bd_b2003_1_1))
+{{< tdclose >}}
+{{< tdopen >}}
+Solution 1 ([PDF]({{< baseurl >}}/resources/answerps1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps24))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset31))
+{{< tdclose >}}
+{{< tdopen >}}
+Solution 3 ([PDF]({{< baseurl >}}/resources/ps3sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Handouts
 ----------------
